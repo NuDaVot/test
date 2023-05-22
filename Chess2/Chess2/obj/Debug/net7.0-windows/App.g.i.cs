@@ -20,6 +20,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Controls.Ribbon;
 using System.Windows.Data;
 using System.Windows.Documents;
+using System.Windows.Forms.Integration;
 using System.Windows.Ink;
 using System.Windows.Input;
 using System.Windows.Markup;
@@ -56,7 +57,7 @@ namespace Chess2 {
             _contentLoaded = true;
             
             #line 5 "..\..\..\App.xaml"
-            this.StartupUri = new System.Uri("Views/Board.xaml", System.UriKind.Relative);
+            this.StartupUri = new System.Uri("Views/MainWindow.xaml", System.UriKind.Relative);
             
             #line default
             #line hidden
