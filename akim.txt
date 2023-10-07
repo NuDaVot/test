@@ -1,3 +1,5 @@
 test 1 shamil
 test 2 akim
 уые3234200 вдыдфдв
+new 1 style(){
+}
