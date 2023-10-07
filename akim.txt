@@ -1,2 +1,4 @@
 test 1 shamil
 test 2 akim
+new 1 style(){
+}
